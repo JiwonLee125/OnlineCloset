@@ -2,14 +2,14 @@ export default [
   {
     id: "0",
     image:
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/pinterest/0.jpeg",
-    title: "notJust Dev Hoodie",
+      'https://static.wikia.nocookie.net/mrmenlittlemiss/images/9/95/Mrmen_mrhappy.jpg/revision/latest?cb=20190603163241',
+    title: 'Mr. Happy',
   },
   {
     id: "1",
     image:
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/pinterest/1.jpeg",
-    title: "Programmer working on laptop computer in office studio",
+      'https://npr.brightspotcdn.com/dims4/default/980b2a8/2147483647/strip/true/crop/2400x1800+0+0/resize/1760x1320!/format/webp/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2024%2F04%2F29%2Fspongebobsquarepants_key_art-9fb3acceee64452b629f7bde4daaabffe3391536.jpg',
+    title: 'SpongeBob',
   },
   {
     id: "2",
